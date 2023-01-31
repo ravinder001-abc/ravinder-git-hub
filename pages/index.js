@@ -25,6 +25,8 @@ function index() {
         <div className="container mission-nn title-misson">
           <div className="classes-module__bannerTitle">The <span style={{ fontWeight: '700' }}>clarity</span> you need <br></br>for a <span style={{ fontWeight: '700' }}>fulfilling life</span></div>
           <div className="searchboxs mt-4">
+        
+<input class="form-control" type="text" placeholder="Search" aria-label="Search" />
             {/* <SearchBox /> */}
             <button type="button" className="classes-module__searchButton___3drtZ">
               <div className="classes-module__searchButtonTitle___2PGdA">Find advisor</div></button>
@@ -381,6 +383,7 @@ function index() {
         </div>
       </div>
       <Footer />
+      
     </div>
 
   )

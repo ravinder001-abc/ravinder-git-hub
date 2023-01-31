@@ -31,23 +31,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -72,23 +55,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -113,23 +79,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -154,23 +103,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -198,23 +130,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="https://d1xfvknfftsbde.cloudfront.net/eyJidWNrZXQiOiJwdXJwbGUtb2NlYW4iLCJrZXkiOiJhZHZpc29ycy8xNDc3L3Byb2ZpbGVfaW1hZ2VfMTY2NzAxMjEwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjU4OCwiZml0IjoiY29udGFpbiJ9fX0=" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -239,23 +154,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -280,23 +178,6 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="https://d1xfvknfftsbde.cloudfront.net/eyJidWNrZXQiOiJwdXJwbGUtb2NlYW4iLCJrZXkiOiJhZHZpc29ycy8xNDc3L3Byb2ZpbGVfaW1hZ2VfMTY2NzAxMjEwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjU4OCwiZml0IjoiY29udGFpbiJ9fX0=" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
                                 </div>
 
                                 <div className="copy">
@@ -321,23 +202,7 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
+                                    
                                 </div>
 
                                 <div className="copy">
@@ -365,23 +230,7 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
+                                    
                                 </div>
 
                                 <div className="copy">
@@ -406,23 +255,7 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="https://d1xfvknfftsbde.cloudfront.net/eyJidWNrZXQiOiJwdXJwbGUtb2NlYW4iLCJrZXkiOiJhZHZpc29ycy8xNDc3L3Byb2ZpbGVfaW1hZ2VfMTY2NzAxMjEwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjU4OCwiZml0IjoiY29udGFpbiJ9fX0=" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
+                                    
                                 </div>
 
                                 <div className="copy">
@@ -447,23 +280,7 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="some-text(1).jpg" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
+                                   
                                 </div>
 
                                 <div className="copy">
@@ -488,23 +305,7 @@ const Footer = () => {
                             <div className='bridge-gtdfre'>
                                 <div className="image">
                                     <img alt="Tower Bridge" src="https://d1xfvknfftsbde.cloudfront.net/eyJidWNrZXQiOiJwdXJwbGUtb2NlYW4iLCJrZXkiOiJhZHZpc29ycy8xNDc3L3Byb2ZpbGVfaW1hZ2VfMTY2NzAxMjEwNy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjU4OCwiZml0IjoiY29udGFpbiJ9fX0=" width="320" height="" />
-                                    {/* <div class="rating-stardfsrav">
-                                        <div class="classes-module__ratingContainer">
-                                            <img src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/starIcon-c4ba539e5fdd1cf75bc335b4177e55f7.svg" />
-                                            <div class="classes-module__ratingText___3QgKY">4.9</div>
-                                        </div>
-                                        <div class="classes-module__playBtnContainer">
-                                            <img class="classes-module__playVideoImg___2gwqV" src="https://www.purplegarden.co/packs/media/src/app/components/advisor_avatar/img/home_play-997e4f74b750c910f324de4e8fe3ceff.svg" alt="" />
-                                        </div>
-                                    </div>
-                                    <div class="module-nicknameee-sakgaguv">
-                                        <div class="">
-                                            <span class="classes-module__nickNameText">MikaShaman</span>
-                                        </div>
-                                        <div class="">
-                                            <span class="classes-module__serviceTitleText">Tarot Advisor</span>
-                                        </div>
-                                    </div> */}
+                                 
                                 </div>
 
                                 <div className="copy">

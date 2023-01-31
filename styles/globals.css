@@ -513,7 +513,7 @@ label {
   border: none;
 }
 .form-control {
-  height: 44px;
+  height: auto;
   background: #fff;
   color: rgba(0, 0, 0, 0.8);
   font-size: 14px;
@@ -524,8 +524,8 @@ label {
 }
 .form-control {
   display: block;
-  width: 100%;
-  height: calc(1.5em + 0.75rem + 2px);
+  width: 400px !important;
+  
   padding: 0.375rem 0.75rem;
   font-size: 1rem;
   font-weight: 400;
@@ -1301,7 +1301,7 @@ color: #dadada;
 }
 .classes-module__ratingContainer {
   background-color: rgb(255, 236, 188);
-  padding: 6px 8px;
+  padding: 3px 4px;
 border-radius: 51px;
 display: flex;
 flex-direction: row;
@@ -1529,7 +1529,7 @@ color: rgb(153, 98, 98);
 }
 .classes-module__ratingText___3QgKY {
   padding-left: 6px;
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 500;
   line-height: 1;
   color: #000;
@@ -1714,7 +1714,7 @@ margin-left: 25rem;
 top: 28%;
 }
 
-.bridge-gtdfre img{
+.bridge-gtdfre .image img{
   width: 100%;
   border-top-left-radius: 15px;
   border-top-right-radius: 15px;
@@ -2071,10 +2071,19 @@ margin-left: 1rem;
 .mission-nn.title-misson {
 padding-top:10%;
 }
-
-
-
-
+.classes-module__playBtnContainer img{
+  width: 20px;
+}
+.classes-module__playBtnContainer img{
+  border-top-left-radius: 0px !important;
+border-top-right-radius: 0px !important;
+}
+.classes-module__headerTitle___3NFzC {
+  margin-left: .8rem;
+}
+.modullljfh65gdrsf{
+  display: flex;
+}
 
 
 
@@ -2154,9 +2163,6 @@ padding-top:10%;
   }
   
 }
-.classes-module__headerTitle___3NFzC {
-  margin-left: .8rem;
-}
 
 
 
@@ -2199,6 +2205,10 @@ padding-top:10%;
     
     width: 300px;
   }
+  .card-group .card {
+    margin-right: 0 !important;
+  }
+  
   
 }
 
@@ -2292,11 +2302,116 @@ line-height: 22px !important;
 .classes-module__staffPick___36BIN {
   display: none !important;
 }
-
+.classes-module__specialityName___6bt_Q {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1;
+}
+.fourth-cjhtgdfr .column {
+  flex: 25% 1 !important;
+  padding: 10px !important;
+}
+.classes-module__mod {
+  display: block;
+}
+.modullljfh65gdrsf {
+  display: block;
+}
 }
 
 
 
+/* dbfiwguefgwiuegfiwegfi */
+.forgot-vfd543bj.cover-container {
+  height: auto !important;
+  width: 100%;
+  white-space: nowrap;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
 
+.forgot-vfd543bj .cover-item {
+  position: relative;
+  display: inline-block;
+  margin: 8px 8px;
+  box-shadow: 2px 2px 4px #bbb;
+  border-top-right-radius: 4px;
+  width: 100%;
+  height: auto !important;
+  vertical-align: bottom;
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 15px;
+}
+.forgot-vfd543bj .rating-star {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+}
 
+.forgot-vfd543bj .classes-module__ratingContainer {
+  background-color: rgb(255, 236, 188);
+  padding: 3px 4px;
+  border-radius: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 24px;
+  min-width: 56px;
+}
+.forgot-vfd543bj .classes-module__ratingContainer img {
+  width: 13px;
+  height: 12px;
+}
+.forgot-vfd543bj .classes-module__ratingText___3QgKY {
+  padding-left: 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1;
+  color: #000;
+}
+.forgot-vfd543bj .classes-module__ratingText___3QgKY {
+  margin-left: .3rem;
+}
+.forgot-vfd543bj .classes-module__playBtnContainer img {
+  border-top-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+}
+.forgot-vfd543bj .classes-module__playBtnContainer img {
+  width: 20px;
+}
+.forgot-vfd543bj .module-nicknameee {
+  margin-top: 7rem;
+  margin-left: 1rem;
+}
+.forgot-vfd543bj .classes-module__nickNameText {
+  font-size: 18px;
+  font-weight: 700;
+  color: #fff;
+}
 
+.forgot-vfd543bj .classes-module__serviceTitleText {
+  font-size: 16px;
+  font-weight: 400;
+  color: #dadada;
+}
+.forgot-vfd543bj .classes-module__onlineIndicator___3TmxY {
+  height: 6px;
+  background-color: #73c940;
+  min-height: 2px;
+  border-radius: 31px;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  margin-top: .9rem;
+  margin-left: 1.6rem;
+  margin-right: 1.6rem;
+}
+
+.forgot-vfd543bj .cover-con-hdgd653fdrsv{
+  background-color: #ffff;
+  border: 1px solid #000;
+}
