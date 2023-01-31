@@ -8,7 +8,7 @@ import StaffClick from '../components/StaffClick';
 import AllAdvisor from '../components/AllAdvisor';
 import Recommended from '../components/Recommended';
 import AllAdvisors from '../components/AllAdvisors';
-import { Row, Container, NavLink, Col, Navbar, Nav, Card } from 'react-bootstrap';
+import { Row, Container, Col, Card } from 'react-bootstrap';
 
 
 function index() {
