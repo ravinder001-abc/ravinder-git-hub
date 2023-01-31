@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Test from '/components/Test';
 
-export default function App() {
+export default function HeaderScroll() {
     const [navSize, setnavSize] = useState("10rem");
     const [navColor, setnavColor] = useState("transparent");
     const listenScrollEvent = () => {

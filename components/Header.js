@@ -1,13 +1,12 @@
 
-import { Row, Container, NavLink, Col, Navbar, Nav } from 'react-bootstrap';
-// import Test from '/components/Test';
+import { Row, Container, NavLink, } from 'react-bootstrap';
 import HeaderScroll from '/components/HeaderScroll';
 const Header = () => {
     
     return (
         <nav>
             <div className='div-header'>
-                <div className='div-svg' onClick={() => history.push('/')}>
+                <div className='div-svg'>
                 </div>
                 <div>
                     <div className="header-first">

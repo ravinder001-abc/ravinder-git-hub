@@ -6,15 +6,24 @@
     "start": "next start"
   },
   "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^1.2.6",
     "bootstrap": "^5.2.3",
+    "core-js": "^3.27.2",
     "git": "^0.1.5",
     "next": "latest",
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.0",
+    "react-bootstrap-icons": "^1.10.2",
+    "react-bootstrap-validation": "^0.1.11",
     "react-burger-menu": "^3.0.9",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "react-search-box": "^2.3.0",
     "react-toastify": "^9.1.1",
-    "update-browserslist-db": "^1.0.10"
+    "slick-carousel": "^1.8.1",
+    "update-browserslist-db": "^1.0.10",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/node": "^17.0.43",
