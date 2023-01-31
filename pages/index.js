@@ -1,9 +1,10 @@
 import Link from 'next/link';
+import Header from '../components/Header';
 
 export default function IndexPage() {
   return (
     <div>
-      Hello World i am God. <Link href="/about">Aboufghdrhrehet</Link>
+     <Header />
     </div>
   )
 }
